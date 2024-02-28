@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Garcia</h1>
 <h3 align="center">A passionate frontend developer and mobile developer from Mexico</h3>
 
-- 🔭 I’m currently working on [The Panda Agency](ThePanda.agency)
+- 🔭 I’m currently working on [La Voz Live](HTTP://LaVozFMLive.com)
 
 - 🌱 I’m currently learning **Wordpress**
 
